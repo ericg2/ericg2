@@ -1,4 +1,6 @@
-### Hi there 👋
+# About Me
+
+**Hello!** My name is Eric and I have been interested in programming and computers in general for quite a while. This page contains my new [GitHub](https://github.com/ericg2) account, however I have some [old](https://github.com/houseofkraft) [accounts](https://github.com/CoolMan119) that are not maintained anymore. Most of the important content has been transferred off them to eventually merge them into this one.
 
 <!--
 **ericg2/ericg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
