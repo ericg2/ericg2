@@ -15,7 +15,7 @@
     <a href="mailto:littlelettere@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-gray?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Logo"/>
     </a>
-</div><br>
+</div>
 
 # About Me
 
